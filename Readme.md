@@ -1,6 +1,6 @@
 EXPLORAÇÃO, ANÁLISE E TRATAMENTO DE DADOS: Projeto de previsão de churn
 
-Este projeto tem como objetivo utilizar modelos de machine learning para prever tendências de cancelamento utilizana base de dados de uma operadora de telecomunicações.
+Este projeto tem como objetivo utilizar modelos de machine learning para prever tendências de cancelamento utilizando abase de dados de uma operadora de telecomunicações.
 
 Segue um resumo da estrutura dos dados que compõe o dataframe:
 * IDCliente - Identificação do cliente 
